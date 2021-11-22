@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _085_Functional_Programing
+namespace Functional_Programing_085
 {
     class Program
     {
@@ -11,7 +11,10 @@ namespace _085_Functional_Programing
             //Leap.DetermineLeapYear();
             //Powerof2.PrintPower();
             //Harmonic_PB4.HarmonicNum();
-            Factor.primeFactors(20);
+            //Factor.primeFactors(20);
+            //Count_Quotient_Reminder.solution();
+            //Swap_no.numswap();
+            Odd_even.numoddeven();
         }
     }
 }
